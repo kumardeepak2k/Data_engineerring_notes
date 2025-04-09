@@ -1,0 +1,13 @@
+🔹 Easy (1–3)
+    1.	Add Two Numbers: Take two numbers from the user and print their sum.
+    2.	Swap Two Variables: Swap the values of two variables using a temporary variable.
+    3.	Even or Odd: Check if a number is even or odd using the modulo operator.
+🔹 Medium (4–7)
+    4.	Simple Calculator: Ask user for two numbers and an operator (+, -, *, /, //, %, **) and return the result.
+    5.	BMI Calculator: Take height and weight from the user and calculate their BMI.
+    6.	Area of Shapes: Calculate the area of a circle, rectangle, and triangle based on user input.
+    7.	Compare Three Numbers: Take three numbers and print the largest using logical operators.
+🔹 Hard (8–10)
+    8.	Quadratic Equation Solver: Take coefficients a, b, and c from the user and solve the quadratic equation.
+    9.	Leap Year Checker: Ask for a year and determine whether it’s a leap year using logical conditions.
+    10.	Check Valid Triangle: Given 3 sides, check if a triangle is valid using triangle inequality rules.
