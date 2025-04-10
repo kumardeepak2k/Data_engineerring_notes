@@ -1,0 +1,14 @@
+✅ STRINGS – 10 Questions
+🔹 Easy (1–3)
+1.	Count Vowels: Count the number of vowels in a given string.
+2.	Reverse a String: Reverse a given string using slicing.
+3.	Check Palindrome: Check if a string reads the same forward and backward.
+🔹 Medium (4–7)
+4.	Remove Duplicates: Remove duplicate characters from a string.
+5.	Word Frequency: Count frequency of each word in a sentence.
+6.	Find the Longest Word: From a sentence, print the longest word.
+7.	Swap Case: Convert uppercase letters to lowercase and vice versa.
+🔹 Hard (8–10)
+8.	Anagram Checker: Check if two strings are anagrams (e.g., “listen” and “silent”).
+9.	Compress String: Convert "aaabbcc" to "a3b2c2".
+10.	Find Substring Indices: Find all starting indices of  a substring within a string.
