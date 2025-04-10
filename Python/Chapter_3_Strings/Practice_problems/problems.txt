@@ -10,5 +10,7 @@
 7.	Swap Case: Convert uppercase letters to lowercase and vice versa.
 🔹 Hard (8–10)
 8.	Anagram Checker: Check if two strings are anagrams (e.g., “listen” and “silent”).
-9.	Compress String: Convert "aaabbcc" to "a3b2c2".
-10.	Find Substring Indices: Find all starting indices of  a substring within a string.
+9.	Given a list of email addresses, your task is to mask the local part (before the '@') of each email as follows:
+    Keep the first and last character of the local part visible.
+    Replace the middle characters with asterisks (*).
+    Leave the domain part (after the '@') unchanged.
