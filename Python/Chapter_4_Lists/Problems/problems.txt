@@ -1,0 +1,13 @@
+🔹 Easy (1–3)
+1.	Sum of Elements: Calculate the sum of all elements in a list.
+2.	Find Maximum and Minimum: Return the max and min from a list.
+3.	Count Even and Odd: Count the number of even and odd numbers in a list.
+🔹 Medium (4–7)
+4.	Second Largest: Find the second largest number in a list.
+5.	Remove Duplicates: Remove duplicates without using set().
+6.	Rotate List: Rotate the list to the right by k steps.
+7.	Pair Sum: Find all pairs in a list that sum to a target value.
+🔹 Hard (8–10)
+8.	Flatten Nested List: Flatten a list like [1, [2, 3], [4, [5, 6]]] into [1, 2, 3, 4, 5, 6].
+9.	List Compression: Compress a list by removing consecutive duplicates.
+10.	Custom Sorting: Sort a list of strings based on their lengths
