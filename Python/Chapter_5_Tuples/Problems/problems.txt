@@ -1,0 +1,13 @@
+🔹 Easy (1–3)
+1.	Create and Print Tuple: Create a tuple and print all elements.
+2.	Tuple Unpacking: Assign tuple values to variables.
+3.	Check Element: Check if a given element exists in a tuple.
+🔹 Medium (4–7)
+4.	Tuple of Squares: Generate a tuple of squares for numbers from 1 to n.
+5.	Count Element: Count how many times a given value appears in a tuple.
+6.	Index of Element: Return the index of an element in a tuple.
+7.	Convert List to Tuple: Take a list from user and convert it into a tuple.
+🔹 Hard (8–10)
+8.	Nested Tuple Operations: Work with nested tuples like ((1, 2), (3, 4)) and sum all values.
+9.	Tuple Sorting: Sort a list of tuples by second element, e.g., [(1, 3), (2, 2)].
+10.	Tuple Merging: Merge multiple tuples into a single flat tuple.
