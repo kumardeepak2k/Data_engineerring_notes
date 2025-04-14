@@ -1,0 +1,13 @@
+🔹 Easy (1–3)
+1.	Create and Print Dictionary: Create a dictionary and print all key-value pairs.
+2.	Access Value: Given a key, print its value.
+3.	Add/Update Value: Add a new key-value pair or update an existing one.
+🔹 Medium (4–7)
+4.	Frequency Counter: Count frequency of characters in a string using dictionary.
+5.	Merge Dictionaries: Merge two dictionaries into one.
+6.	Invert Dictionary: Swap keys and values.
+7.	Find Key with Max Value: Return the key with the maximum value.
+🔹 Hard (8–10)
+8.	Group Words by Length: Given a list of words, group them by their lengths using a dictionary.
+9.	Nested Dictionary Access: Work with deeply nested dicts to access or update a value.
+10.	Dictionary from List: Create a dictionary from a list of tuples like [("a", 1), ("b", 2)].
