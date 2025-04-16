@@ -1,0 +1,40 @@
+🧠 Chapter: Sets - Practice Questions
+✅ Easy (1-3)
+Check Membership
+Write a program to check whether a given element exists in a set.
+
+Set Operations
+Given two sets, perform union, intersection, and difference operations without using built-in methods like .union() or .intersection().
+
+Unique Elements from List
+Given a list with duplicate values, convert it to a set and back to a list to remove duplicates.
+
+⚙️ Medium (4-7)
+Common Elements
+Write a program to find common elements between two lists using sets.
+
+Symmetric Difference
+Implement symmetric difference between two sets manually, without using .symmetric_difference().
+
+Subset and Superset
+Write functions to check if one set is a subset or superset of another, using logical conditions only.
+
+Set of Characters
+Take a string input and store all unique characters in a set. Count how many vowels are present.
+
+🔥 Hard (8-10)
+Set Comprehension Challenge
+Create a set of all square numbers less than 100 that are divisible by 4 using set comprehension.
+
+Set Puzzle
+Given three lists:
+
+A = [1,2,3,4], B = [3,4,5,6], C = [5,6,7,8]
+Write a program to find:
+
+Elements common to all three
+
+Elements only in one list
+
+Duplicate Detection without Extra Memory
+Given a list of integers, use only sets (not another list or dict) to detect if any duplicate exists.
