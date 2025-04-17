@@ -1,0 +1,32 @@
+🧾 Student Grade Manager – Requirements Document
+✅ 1. Data Structure Setup
+ -- Use a dictionary to store student records.
+ -- Each student name should be a key.
+ -- The value should be a list of marks (3–4 subjects per student).
+ -- Allow user input to dynamically enter student names and marks.
+
+✅ 2. Functional Requirements
+ -- Function to calculate total marks per student.
+ -- Function to calculate average marks per student.
+ -- Function to assign grades based on average (A/B/C/...).
+ -- Function to identify the class topper (student with the highest average).
+
+✅ 3. Display Requirements
+ -- Print each student’s:
+    Name
+    Total_marks
+    Average  
+    Grade
+    Print the name of the class topper.
+
+✅ 4. Input & Validation
+ -- Allow user to:
+
+ -- Enter number of students
+
+ -- Enter student names
+
+ -- Enter marks for each subject
+
+ -- Validate inputs to prevent errors (e.g., non-numeric marks).
+
