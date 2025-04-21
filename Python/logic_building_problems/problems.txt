@@ -1,0 +1,36 @@
+🔹 Level 1 – Easy (Q1–10)
+
+1. check_prime(n) – Return True if n is a prime number.
+2. fibonacci(n) – Return the first n terms of the Fibonacci series as a list.
+3. is_palindrome(s) – Return True if the string s is a palindrome.
+4. sum_of_digits(n) – Return the sum of all digits of a number.
+5. remove_duplicates(lst) – Return list with duplicates removed.
+6. count_vowels(s) – Count and return the number of vowels in the string.
+7. max_frequency_char(s) – Return the character with the highest frequency in the string.
+8. second_largest(lst) – Return the second largest element from a list.
+9. are_anagrams(str1, str2) – Return True if two strings are anagrams.
+10. unique_elements_from_two_lists(a, b) – Return unique elements using sets.
+
+🔹 Level 2 – Medium (Q11–20)
+11. reverse_words(sentence) – Reverse the words in a sentence: "hello world" → "world hello"
+12. count_characters(s) – Return a dictionary with count of each character.
+13. rotate_list(lst, k) – Rotate the list k positions to the right.
+14. flatten_list(nested) – Flatten a nested list: [1, [2, 3], 4] → [1, 2, 3, 4]
+15. find_pairs_with_sum(lst, target) – Return all pairs whose sum is equal to target.
+16. longest_word(sentence) – Return the longest word in a sentence.
+17. capitalize_words(s) – Return the string with each word capitalized.
+18. is_armstrong(n) – Check whether a number is an Armstrong number.
+19. remove_common_chars(a, b) – Return two strings with common characters removed.
+20. merge_dicts(d1, d2) – Merge two dictionaries. In case of conflict, keep the higher value.
+
+🔹 Level 3 – Slightly Challenging (Q21–30)
+21.group_by_first_letter(words) – Group words by their first letter using a dictionary.
+22. most_frequent_word(sentence) – Return the word with highest frequency.
+23. encode_run_length(s) – Run-length encoding: "aaabb" → "a3b2"
+24. pattern_checker(s) – Check if string follows a given pattern (like a basic regex).
+25. move_zeros_to_end(lst) – Move all zeros to the end of list.
+26. string_compression(s) – Compress string like "aabcccccaaa" → "a2b1c5a3"
+27. check_balanced_brackets(s) – Return True if brackets are balanced.
+28. transpose_matrix(matrix) – Return the transpose of a 2D matrix.
+29. diagonal_sum(matrix) – Return sum of main diagonal elements.
+30. frequency_sort(s) – Return string sorted by character frequency.
